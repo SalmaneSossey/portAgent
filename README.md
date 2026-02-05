@@ -151,11 +151,6 @@ portagentai-trade-copilot/
 └── docker-compose.yml
 ```
 
-## 👥 Équipe
-
-- **[Votre Nom]** - Lead Developer
-- **[Coéquipier 1]** - Frontend
-- **[Coéquipier 2]** - Backend/AI
 
 ## 📄 License
 
