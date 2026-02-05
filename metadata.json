@@ -1,0 +1,8 @@
+
+{
+  "name": "PortAgent - AI Trade Copilot",
+  "description": "An AI-powered execution copilot for PortNet. Extracts, validates, and packages trade data locally.",
+  "requestFramePermissions": [],
+  "version": "2.0.0",
+  "author": "Senior Full-Stack AI Architect"
+}
