@@ -164,5 +164,5 @@ MIT License - Voir [LICENSE](./LICENSE)
 ---
 
 <p align="center">
-  <b>🏆 Développé pour le Hackathon TijarIA 2026</b>
+  <b>🏆 Développé pour le Hackathon Smart Trade Challenge 2026</b>
 </p>
